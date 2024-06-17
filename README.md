@@ -64,7 +64,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
     The original resultant image from the space // gradio.live 
 
-| ![alt text](assets/image3.webp) |![alt text](assets/image4.png) |
+| ![alt text](assets/image3.webp) |![alt text](assets/image4.webp) |
 |---------------------------|--------------------------|
 
 
