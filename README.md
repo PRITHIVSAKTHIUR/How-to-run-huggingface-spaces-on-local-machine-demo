@@ -57,9 +57,11 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](assets-gpu/gpu1.png)
 
-    The Sample results 1 & 2 from the colab space 
+    The Sample results 1 & 2 from the colab space
 
-![alt text](assets-gpu/gpu5.png) | ![alt text](assets-gpu/gpu6.png)
+| ![alt text](assets-gpu/gpu5.png) |![alt text](assets-gpu/gpu6.png) |
+|---------------------------|--------------------------|
+
 
 
 http://127.0.0.1:7861
