@@ -21,7 +21,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](assets/cpugpu.gif)
 
-Before getting into the demo, let's first understand how Hugging Face access tokens are passed from the settings on your profile ⭐
+# Before getting into the demo, let's first understand how Hugging Face access tokens are passed from the settings on your profile ⭐
 
     You can see the hf token there : 👇🏻  in your profile
     
@@ -32,6 +32,10 @@ Before getting into the demo, let's first understand how Hugging Face access tok
     Pass the access to Login locally to Hugging face
 
 ![alt text](assets/accesstokengpu.png)
+
+## 1. Running in T4 GPU, Google Colab Space : Hardware accelerator
+
+
 
 https://7770379da2bab84efe.gradio.live/
 
