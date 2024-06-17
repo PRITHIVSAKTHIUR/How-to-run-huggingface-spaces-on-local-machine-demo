@@ -62,6 +62,12 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 | ![alt text](assets-gpu/gpu5.png) |![alt text](assets-gpu/gpu6.png) |
 |---------------------------|--------------------------|
 
+    The original resultant image from the space // gradio.live 
+
+| ![alt text](assets/image3.webp) |![alt text](assets/image4.png) |
+|---------------------------|--------------------------|
+
+
 
 
 http://127.0.0.1:7861
