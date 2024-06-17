@@ -39,9 +39,13 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](choose/6.png)
 
-    In Colab Choose the T4 GPU as a Runtime Hardware ✅ & Run the modules one by one. 
-
+    In Colab Choose the T4 GPU as a Runtime Hardware ✅ as Google Compute Engine !!
+    
 ![alt text](assets-gpu/gpu0.png)
+
+    Run the modules one by one : first the requirements, sencond the hf_access_token -- Login successful!, third the main code block. The Gradio Interface will look like this.
+    
+![alt text](assets-gpu/gpu1.png)
 
 
 https://7770379da2bab84efe.gradio.live/
