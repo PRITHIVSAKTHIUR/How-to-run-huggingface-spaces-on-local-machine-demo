@@ -116,7 +116,7 @@ Run all the requirements
 
 ![alt text](assets-cpu/cpu.png)
 
-✅ After the successful -run you will see the components loading to the local code 
+✅ After the successful -run you will see the components loading to the local code editor 
 
     ===== Application Startup at 2024-06-17 16:51:58 =====
     The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.
