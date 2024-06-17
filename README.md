@@ -21,6 +21,15 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](assets/cpugpu.gif)
 
+# Before getting into the demo, let's first understand how Hugging Face access tokens are passed from the settings on your profile.
+
+    You can see the hf token there : https://huggingface.co/settings/tokens in your profile
+
+![alt text](assets/at.png)
+
+    Pass the access to Login locally to Hugging face
+
+![alt text](assets/accesstokengpu.png)
 
 https://7770379da2bab84efe.gradio.live/
 
