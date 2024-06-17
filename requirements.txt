@@ -1,0 +1,14 @@
+torch==2.0.0+cu118
+torchvision==0.15.0+cu118
+torchaudio==2.0.0+cu118
+spaces
+diffusers
+gradio
+safetensors
+xformers
+invisible_watermark
+accelerate
+transformers
+peft
+pillow
+huggingface_hub
