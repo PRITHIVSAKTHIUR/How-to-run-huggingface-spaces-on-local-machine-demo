@@ -53,8 +53,13 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
     
 ![alt text](assets-gpu/gpu3.png)
 
-    After loading to the gradio.live, the gradio interface like this..
+    After loading to the gradio.live, the gradio interface like this.. & enter the prompt and process it
 
 ![alt text](assets-gpu/gpu1.png)
+
+    The Sample results 1 & 2 from the colab space 
+
+![alt text](assets-gpu/gpu5.png) | ![alt text](assets-gpu/gpu6.png)
+
 
 http://127.0.0.1:7861
