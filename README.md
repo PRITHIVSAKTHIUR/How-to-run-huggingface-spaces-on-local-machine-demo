@@ -64,10 +64,10 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
     The original resultant image from the space // gradio.live 
 
-| ![alt text](assets/image1.webp) |![alt text](assets/image2.webp) |
+| ![alt text](assets/image1.png) |![alt text](assets/image2.png) |
 |---------------------------|--------------------------|
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 http://127.0.0.1:7861
