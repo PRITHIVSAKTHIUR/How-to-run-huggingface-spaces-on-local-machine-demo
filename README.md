@@ -73,4 +73,11 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+## 2. Running in CPU, Local System : Hardware accelerator
+
+    Choose the run-as-cpu.py file from the repo & take it on to the local code editor ( eg. vs.code )
+
+![alt text](choose/7.png)
+
 http://127.0.0.1:7861
