@@ -35,7 +35,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ## 1. Running in T4 GPU, Google Colab Space : Hardware accelerator
 
-    Choose the run-as-gpu file from the repo & take it on to the colab notebooks
+    Choose the run-as-gpu.ipynb file from the repo & take it on to the colab notebooks
 
 ![alt text](choose/6.png)
 
