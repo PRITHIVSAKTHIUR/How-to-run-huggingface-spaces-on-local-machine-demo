@@ -83,6 +83,8 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ## 2. Running in CPU, Local System : Hardware accelerator
 
+👇🏻Same Hugging_Face Login procedure for this method also !!
+
     You can see the hf token there : 👇🏻  in your profile
     
     https://huggingface.co/settings/tokens
