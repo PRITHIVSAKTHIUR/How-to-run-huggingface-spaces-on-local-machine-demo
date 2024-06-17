@@ -83,6 +83,16 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ## 2. Running in CPU, Local System : Hardware accelerator
 
+    You can see the hf token there : 👇🏻  in your profile
+    
+    https://huggingface.co/settings/tokens
+
+![alt text](assets/at.png)
+
+    Pass the access to Login locally to Hugging face
+
+![alt text](assets/accesstokengpu.png)
+
     Choose the run-as-cpu.py file from the repo & take it on to the local code editor ( eg. vs.code )
     Statisfy all the requirement.txt ; pip install -r requirements.txt
 
@@ -100,5 +110,53 @@ Run all the requirements
 🚀Run the run-as-cpu.py by ( python run-as-cpu.py )
 
 ![alt text](assets-cpu/cpu.png)
+
+✅ After the successful -run you will see the components loading to the local code 
+
+    ===== Application Startup at 2024-06-17 16:51:58 =====
+    The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.
+    0it [00:00, ?it/s]
+    0it [00:00, ?it/s]
+    /usr/local/lib/python3.10/site-packages/diffusers/models/transformers/transformer_2d.py:34: FutureWarning: `Transformer2DModelOutput` is deprecated and will be removed in version 1.0.0. Importing `Transformer2DModelOutput` from `diffusers.models.transformer_2d` is deprecated and this will be removed in a future version. Please use `from diffusers.models.modeling_outputs import Transformer2DModelOutput`, instead.
+      deprecate("Transformer2DModelOutput", "1.0.0", deprecation_message)
+    Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]
+    Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00,  9.83it/s]
+    Running on local URL:  http://0.0.0.0:7860
+    
+    To create a public link, set `share=True` in `launch()`.
+    IMPORTANT: You are using gradio version 4.26.0, however version 4.29.0 is available, please upgrade.
+    --------
+    
+      0%|          | 0/2 [00:00<?, ?it/s]
+     50%|█████     | 1/2 [00:15<00:15, 15.39s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.82s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.91s/it]
+    
+      0%|          | 0/2 [00:00<?, ?it/s]
+     50%|█████     | 1/2 [00:14<00:14, 14.12s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.98s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.85s/it]
+    
+      0%|          | 0/2 [00:00<?, ?it/s]
+     50%|█████     | 1/2 [00:13<00:13, 14.00s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.82s/it]
+    100%|██████████| 2/2 [00:29<00:00, 14.70s/it]
+    
+      0%|          | 0/2 [00:00<?, ?it/s]
+     50%|█████     | 1/2 [00:20<00:20, 20.08s/it]
+    100%|██████████| 2/2 [00:40<00:00, 20.57s/it]
+    100%|██████████| 2/2 [00:40<00:00, 20.49s/it]
+    
+      0%|          | 0/2 [00:00<?, ?it/s]
+     50%|█████     | 1/2 [00:21<00:21, 21.21s/it]
+    100%|██████████| 2/2 [00:43<00:00, 21.67s/it]
+    100%|██████████| 2/2 [00:43<00:00, 21.60s/it]
+
+![alt text](assets-cpu/cpu1.png)
+
+
+
+
+
 
 http://127.0.0.1:7861
