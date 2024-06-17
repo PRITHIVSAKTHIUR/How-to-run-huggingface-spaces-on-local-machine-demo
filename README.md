@@ -43,12 +43,18 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
     
 ![alt text](assets-gpu/gpu0.png)
 
-    Run the modules one by one : first the requirements, sencond the hf_access_token -- Login successful!, third the main code block. The Gradio Interface will look like this.
+    Run the modules one by one : first the requirements, sencond the hf_access_token -- Login successful!, third the main code block. After the components of the model which you have linked with the model id will be loaded.
     
+![alt text](assets-gpu/gpu4.png)
+
+    👇🏻👇🏻After Successfully running the code the live.server for gradio will give a link like this ...
+
+    https://7770379da2bab84efe.gradio.live/
+    
+![alt text](assets-gpu/gpu3.png)
+
+    After loading to the gradio.live, the gradio interface like this..
+
 ![alt text](assets-gpu/gpu1.png)
-
-
-https://7770379da2bab84efe.gradio.live/
-
 
 http://127.0.0.1:7861
