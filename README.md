@@ -39,9 +39,9 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](choose/6.png)
 
-In Colab Choose the T4 GPU as a Runtime Hardware ✅ & Run the modules one by one. 
+    In Colab Choose the T4 GPU as a Runtime Hardware ✅ & Run the modules one by one. 
 
-![alt text](assets-gpu/gpu-0.png)
+![alt text](assets-gpu/gpu0.png)
 
 
 https://7770379da2bab84efe.gradio.live/
