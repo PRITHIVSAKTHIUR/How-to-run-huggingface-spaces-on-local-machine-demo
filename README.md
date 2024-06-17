@@ -166,7 +166,15 @@ Run all the requirements
 | ![alt text](assets-cpu/cpu2.png) |![alt text](assets-cpu/cpu3.png) |
 |---------------------------|--------------------------|
 
+    outcome ⭐
+    
+![alt text](assets-cpu/cpu0.png)
 
+    🚀The Resultant image generated
+
+
+| ![alt text](assets/image3.webp) |![alt text](assets/image4.webp) |
+|---------------------------|--------------------------|
 
 
 
