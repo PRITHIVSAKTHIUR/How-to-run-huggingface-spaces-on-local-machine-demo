@@ -99,7 +99,6 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
     Statisfy all the requirement.txt ; pip install -r requirements.txt
 
 ![alt text](choose/7.png)
-
 Run all the requirements
 
     accelerate
@@ -155,6 +154,17 @@ Run all the requirements
     100%|██████████| 2/2 [00:43<00:00, 21.60s/it]
 
 ![alt text](assets-cpu/cpu1.png)
+
+    After that you will see it launched on the ip address ( http://127.0.0.1:7861 ) to run it locally. 
+    And you can launch the gradio interface in public link on your local hardware ..
+
+![alt text](assets-cpu/cpu4.png)
+
+    Enter the prompt & process it on your local CPU
+
+
+| ![alt text](assets-cpu/cpu2.png) |![alt text](assets-cpu/cpu3.png) |
+|---------------------------|--------------------------|
 
 
 
