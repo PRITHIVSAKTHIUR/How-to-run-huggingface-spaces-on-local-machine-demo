@@ -51,11 +51,14 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
     https://7770379da2bab84efe.gradio.live/
     
-![alt text](assets-gpu/gpu3.png)
+🚀Progress
 
     After loading to the gradio.live, the gradio interface like this.. & enter the prompt and process it
 
-![alt text](assets-gpu/gpu1.png)
+
+| ![alt text](assets-gpu/gpu3.png) |![alt text](assets-gpu/gpu1.png) |
+|---------------------------|--------------------------|
+
 
     The Sample results 1 & 2 from the colab space
 
