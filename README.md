@@ -73,6 +73,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 🚀Working Link for the Colab :
 
     https://colab.research.google.com/drive/1rxdJ1S07DVxv-IXELG4q2I1DV0L2k9hZ?usp=sharing
+
 .
 
 .
