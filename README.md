@@ -84,7 +84,21 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 ## 2. Running in CPU, Local System : Hardware accelerator
 
     Choose the run-as-cpu.py file from the repo & take it on to the local code editor ( eg. vs.code )
+    Statisfy all the requirement.txt ; pip install -r requirements.txt
 
 ![alt text](choose/7.png)
+
+Run all the requirements
+
+    accelerate
+    diffusers
+    invisible_watermark
+    torch
+    transformers
+    xformers
+
+🚀Run the run-as-cpu.py by ( python run-as-cpu.py )
+
+![alt text](assets-cpu/cpu.png)
 
 http://127.0.0.1:7861
