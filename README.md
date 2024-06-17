@@ -1,5 +1,3 @@
-## How to run hf spaces on local cpu (ex.intel i5 / amd ryzen 7) or by google colab with T4 gpu ❓
-
 ---
 title: HF_SPACE DEMO
 emoji: 🐹
@@ -19,6 +17,7 @@ license: creativeml-openrail-m
 short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 ---
 
+## How to run hf spaces on local cpu (ex.intel i5 / amd ryzen 7) or by google colab with T4 gpu ❓
 
 
 https://7770379da2bab84efe.gradio.live/
