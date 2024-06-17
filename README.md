@@ -85,7 +85,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 2. Running in CPU, Local System : Hardware accelerator
+## 2. Running on CPU, Local System : Hardware accelerator [ 0 ] 
 
 👇🏻Same Hugging_Face Login procedure for this method also !!
 
