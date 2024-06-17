@@ -1,3 +1,5 @@
+## How to run hf spaces on local cpu (ex.intel i5 / amd ryzen 7) or by google colab with T4 gpu ❓
+
 ---
 title: HF_SPACE DEMO
 emoji: 🐹
