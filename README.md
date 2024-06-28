@@ -33,7 +33,7 @@ short_description: Fast as Hamster | Stable Hamster | Stable Diffusion
 
 ![alt text](assets/accesstokengpu.png)
 
-   Here we used T4 GPU Instead of Nvidia A100, where as you can access the A100 in Colab if you are a premium user. T4 is free for certain amount of computation & although it's not as powerful as the A100 or V100. Since A100 supports HCP().
+   Here we used T4 GPU Instead of Nvidia A100, where as you can access the A100 in Colab if you are a premium user. T4 is free for certain amount of computation & although it's not as powerful as the A100 or V100. Since A100 supports HCP() - Acc
 
 ![alt text](assets/t4.gif)
 
