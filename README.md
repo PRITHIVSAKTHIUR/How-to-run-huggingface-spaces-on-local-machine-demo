@@ -7,7 +7,7 @@ sdk: gradio
 sdk_version: 4.36.1
 app_file: app.py
 base_model: stabilityai/sdxl-turbo
-model: SG161222/RealVisXL_V4.0
+model: SG161222/RealVisXL_V4.0 / other models based on the conditions
 type: base_model, model
 pinned: true
 header: mini
